@@ -1,0 +1,6 @@
+Add task: prepare the quarterly review by Friday
+Show my tasks
+Schedule design critique on 2026-08-02 at 14:00 for 45 minutes
+Show my agenda
+Draft email to alex@example.com subject: Design critique; Please bring the latest prototype and open questions.
+Research meeting agendas

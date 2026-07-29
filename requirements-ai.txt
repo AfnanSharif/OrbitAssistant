@@ -1,0 +1,8 @@
+-r requirements.txt
+autogen-agentchat>=0.4,<1
+autogen-core>=0.4,<1
+autogen-ext[openai]>=0.4,<1
+google-api-python-client>=2.160,<3
+google-auth-oauthlib>=1.2,<2
+slack-sdk>=3.33,<4
+aiohttp>=3.10,<4
